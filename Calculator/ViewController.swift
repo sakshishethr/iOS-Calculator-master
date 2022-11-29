@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  Calculator
-//
-//  Created by Marcus Gabilheri on 2/19/16.
-//  Copyright © 2016 Marcus Gabilheri. All rights reserved.
-//
 
 import UIKit
 
